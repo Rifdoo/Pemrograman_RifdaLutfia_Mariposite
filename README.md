@@ -24,13 +24,3 @@ Proyek ini mencakup dua fase pengerjaan utama yang melatih pemahaman logika komp
   * **Kategori Logika:** Pengolahan Array, Manipulasi Indeks, & Algoritma Pencarian.
 
 ---
-
-## Struktur Repository
-```text
-.
-├── Fase_1/
-│   └── Laporan_Latihan_Logika.pdf
-├── Fase_2/
-│   ├── Problem1_TheLastAstronaut.cpp
-│   └── Problem2_AlienInTheMiddle.cpp
-└── README.md
